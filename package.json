@@ -94,5 +94,8 @@
     "hooks": {
       "pre-commit": "lint-staged"
     }
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-alignment": "^23.1.0"
   }
 }
