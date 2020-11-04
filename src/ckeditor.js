@@ -60,7 +60,7 @@ ClassicEditor.builtinPlugins = [
 	TableToolbar,
 	TextTransformation,
 
-	Alignment,
+	Alignment
 ];
 
 // Editor configuration.
